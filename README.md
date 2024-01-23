@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: it's not going very well
 
-![me](https://i.pinimg.com/originals/e4/a7/3c/e4a73c86ccae59ea259c75121ba6cb84.gif)
+![me](https://i.pinimg.com/originals/b3/ae/43/b3ae438d9c42d19f15045e20a6264a3b.gif)
 <!--
 **chessparov/chessparov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
