@@ -1,4 +1,4 @@
-![me](https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif)
+![me](https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif)
 <!--
 **chessparov/chessparov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
