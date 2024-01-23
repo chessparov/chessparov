@@ -1,12 +1,18 @@
+### Hi there 👋
+
+🌱 I’m currently learning python
+
+⚡ Fun fact: it's not going very well
+
 ![me](https://i.pinimg.com/originals/e4/a7/3c/e4a73c86ccae59ea259c75121ba6cb84.gif)
 <!--
 **chessparov/chessparov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
