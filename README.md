@@ -7,10 +7,12 @@
 <img src="https://cdn.dribbble.com/users/114039/screenshots/3405025/plant_dribbble.gif" width="1000">
 
 # My miserable stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chessparov" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chessparov&size_weight=0.5&count_weight=0.5" height="195" />
-</p>
+<a href="https://github.com/chessparov/chessparov">
+  <img height=200 align="center" src="https://chessparovgitstats.vercel.app/api?username=chessparov" />
+</a>
+<a href="https://github.com/chessparov/chessparov">
+  <img height=200 align="center" src="https://chessparovgitstats.vercel.app/api/top-langs/?username=chessparov&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **chessparov/chessparov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
