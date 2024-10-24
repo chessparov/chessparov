@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently cooking spaghetti with python!
+🌱 I’m currently cooking spaghetti!
 
 <img src="https://cdn.dribbble.com/users/114039/screenshots/3405025/plant_dribbble.gif" width="1000">
 
