@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/chessparov/chessparov">
     <img height=180 align="center" src="https://chessparovgitstats.vercel.app/api?username=chessparov" />
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/api/top-langs/?username=chessparov&layout=compact&langs_count=8" />
+    <img height=180 align="center" src="https://chessparovgitstats.vercel.app/api/api/top-langs/?username=chessparov&layout=compact&langs_count=8" />
   </a>
 </div>
 
